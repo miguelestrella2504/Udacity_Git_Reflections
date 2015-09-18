@@ -1,0 +1,3 @@
+When would you want to create a remote repository rather than keeping all your work local?
+Cuando se trabaja en equipo y se requiere que varias personas aporten al mismo repositorio, asi mismo cuando se desea 
+tener un respaldo seguro en línea de la información del proyecto.
