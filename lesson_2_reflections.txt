@@ -1,0 +1,51 @@
+What happens when you initialize a repository?
+
+Se crea el directorio  invisible.git donde se almacenan los archivos necesarios para que opere git 
+en el directorio seleccionado.
+
+Why do you need to do it?
+
+Se requere hacer para que se registre el directorio en git y se creen los archivos de operación necesarios 
+para git.
+
+How is the staging area different from the working directory and the repository?
+
+El direcorio de trabajo es la carpeta donde se encuentran todos los archivos del proyecto incluyendo 
+los estados almacenados por git, el repositorio es un directorio pero sin los estaos git.
+
+What value do you think it offers?
+
+Ofrece control sobre los cambios realizados a lo largo del tiempo sobre los archivos del directorio de trabajo.
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+Añadiendo modulos diferentes a diferentes staging areas para que se haga un commit por los cambios lógicos realizados
+en un mòdulo.
+
+What are some situations when branches would be helpful in keeping your history organized? 
+
+Cuando se crea versiones diferentes de la app y no se quiere perder la funcionalidad de la versión principal.
+
+How would branches help?
+
+Los branches ayudan en gran medida para el manejo de versiones diferentes de la app.
+
+How do the diagrams help you visualize the branch structure?
+
+Los diagramas son útiles debido a que permiten visualizar los diferentes commits realizados en la aplicación de
+acuerdo a sus branches y determinar donde inician y donde terminan estos.
+
+What is the result of merging two branches together?
+
+Estos se combinan, su código fuente se une en ambos y se mantiene lo igual y lo nuevo, si hay cambios en las 
+mismas líneas de código se crean conflictos que se debe resolver.
+
+Why do we represent it in the diagram the way we do?
+
+Se lo representa en el diagrama para tener claro donde ocurren los cambios.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+La fusion automatica es mas rápida y si se tiene politicas adecuadas de programación para el trabajo en equipo
+se puede obtener resultados mas rápidos y con un mínimo de conflictos, mientras que hacerlo manualmente permite
+tener un mejor control de lo que sucede con el código.

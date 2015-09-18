@@ -1,0 +1,48 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+    Puedes encontrar las diferencias especificas en las lineas de codigo de un archivo grande.
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+    Porque te permite desarrollar un estilo de desarrollo seguro y con redundancia de achibos, 
+	lo que facilita la depuracion de errores humanos.
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+    Creo que los pros incluyen mejor uso del almacenamiento, también que se guarda una version
+	del archivo que deseamos en lugar de una en la que no tenemos conocimiento de lo realizado.
+	Entre los cons puede ser que depende de un respaldo manual lo que en si puede ser provocar
+	errores si no se tiene una costumbre para el respaldo.
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+    Creo que se debe a que Git se enfoca en guardar versiones de archivos depuradas
+	y no solamente guardadas con corte a cierta fecha y hora, a demas Git guarda varios
+	archivos con corte a cierto tiempo porque estos pueden formar parte de un programa y funcionan
+	juntos.
+
+How can you use the commands git log and git diff to view the history of files?
+
+    En el Git Batch se debe navegar hasta la ruta donde se encuentra el archivo .git del proyecto
+	y ejecutar los comandos, el git log se lo ejecuta sin parámetros y permite ver la lista de 
+	eventos en el proyecto con un identificador cada uno de estos, se lo mira desplazandos hacia 
+	abajo y cuando se ha visto lo necesario se presiona 'q' para salir, el comando git diff
+	utiliza por lo general 2 parametros, los identificadores del commit de lo que se quiere comparar
+	separados por un espacio.
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    Permite tener mas confianza con los cambios que se va a hacer a archivo de codigo
+	ya que se tiene versiones anteriores del archivo como respaldo que tienen una lógica
+	independiente.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    Para toda aplicación nueva que cree o aplicaciones que requieren mantenimiento, asi como
+	documentos y programas.
