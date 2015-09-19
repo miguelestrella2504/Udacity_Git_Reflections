@@ -19,3 +19,8 @@ especificos de este.
 What is the benefit of having a copy of the last known state of the remote stored locally?
 
 Que la puedes ver y trabajar con ella offline.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+Sin git o git-hub se puede colaborar mediante respaldos en servidores en línea, mas es mas complicado,
+la opción mas práctica es usar git.
