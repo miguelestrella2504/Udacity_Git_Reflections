@@ -24,3 +24,9 @@ How would you collaborate without using Git or GitHub? What would be easier, and
 
 Sin git o git-hub se puede colaborar mediante respaldos en servidores en línea, mas es mas complicado,
 la opción mas práctica es usar git.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits 
+does each approach have?
+
+Es cuando se esta creando una nueva version de la aplicacion/proyecto y no se desea modificar la version 
+principal hasta haber terminado y depurado la version nueva.
