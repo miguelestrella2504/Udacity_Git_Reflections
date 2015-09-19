@@ -15,3 +15,7 @@ Fork es equivalente a clone, mas esto se realiza en linea en los servidores de G
 realiza localmente. Los branches son versiones diferentes del proyecto que pueden estar presentes en línea
 o localmente, mas no son versiones del proyecto completo, sino de los cambios realizados en los archivos
 especificos de este.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+Que la puedes ver y trabajar con ella offline.
